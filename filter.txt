@@ -24,3 +24,6 @@ www.republicain-lorrain.fr##.fullDetailActions
 www.republicain-lorrain.fr##.GRDC_newsletters.mod
 www.republicain-lorrain.fr##.stickyB_wrapper
 www.republicain-lorrain.fr##.col_secondaire
+! 2022-01-04 https://www.republicain-lorrain.fr
+www.republicain-lorrain.fr##.twitterContent
+www.republicain-lorrain.fr##.logora_synthese
