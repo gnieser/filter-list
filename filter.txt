@@ -1,0 +1,26 @@
+! 2021-12-27 https://www.lefigaro.fr
+www.lefigaro.fr##.fig-comments
+
+! 2021-12-27 http://www.lessentiel.lu
+www.lessentiel.lu##.teaser_media
+www.lessentiel.lu###talkback
+
+! 2021-12-27 https://www.mediapart.fr
+www.mediapart.fr##.js-comments
+www.mediapart.fr##a[data-smarttag-name='commentaires']
+
+! 2021-12-27 https://www.wort.lu
+www.wort.lu##.comment
+
+! 2021-12-27 http://www.lessentiel.lu
+www.lessentiel.lu##.teaser_thematiclinks
+
+! 2021-12-27 https://www.youtube.com
+www.youtube.com##ytd-comments
+
+! 2021-12-27 https://www.republicain-lorrain.fr
+www.republicain-lorrain.fr###below_article_taboola_feed_stop
+www.republicain-lorrain.fr##.fullDetailActions
+www.republicain-lorrain.fr##.GRDC_newsletters.mod
+www.republicain-lorrain.fr##.stickyB_wrapper
+www.republicain-lorrain.fr##.col_secondaire
