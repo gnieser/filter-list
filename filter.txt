@@ -1,5 +1,7 @@
 ! 2021-12-27 https://www.lefigaro.fr
 www.lefigaro.fr##.fig-comments
+! 2022-01-18 https://www.lefigaro.fr
+www.lefigaro.fr##.fig-free-embed
 
 ! 2021-12-27 http://www.lessentiel.lu
 www.lessentiel.lu##.teaser_media
