@@ -32,3 +32,7 @@ www.republicain-lorrain.fr##.logora_synthese
 www.republicain-lorrain.fr##div#sharingBlock
 www.republicain-lorrain.fr##.listPromotionBlock
 www.republicain-lorrain.fr##.image.GRDC_webPoll.mod
+
+! 2022-01-22 https://www.lequipe.fr
+www.lequipe.fr##section#comments
+www.lequipe.fr##section.Paywall
