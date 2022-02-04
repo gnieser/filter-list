@@ -24,6 +24,7 @@ www.republicain-lorrain.fr##div#sharingBlock
 www.republicain-lorrain.fr##.listPromotionBlock
 www.republicain-lorrain.fr##.image.GRDC_webPoll.mod
 www.republicain-lorrain.fr##.googleComponent
+www.republicain-lorrain.fr##.ua-trackevent
 
 www.lequipe.fr##section#comments
 www.lequipe.fr##section.Paywall
