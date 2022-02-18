@@ -1,3 +1,5 @@
+www.lemonde.fr##.message--register.message
+
 www.lefigaro.fr##.fig-comments
 www.lefigaro.fr##.fig-free-embed
 
