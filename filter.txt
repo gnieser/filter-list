@@ -12,6 +12,10 @@ www.mediapart.fr##a[data-smarttag-name='commentaires']
 www.wort.lu##.comment
 
 www.lessentiel.lu##.teaser_thematiclinks
+www.lessentiel.lu##section[id=ratingSection]
+www.lessentiel.lu##div[class^=CommentPage]
+www.lessentiel.lu##div > button:has(svg)
+www.lessentiel.lu##div[class^=ActivityBar]
 
 www.youtube.com##ytd-comments
 
