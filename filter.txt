@@ -17,6 +17,11 @@ www.lessentiel.lu##div[class^=CommentPage]
 www.lessentiel.lu##div > button:has(svg)
 www.lessentiel.lu##div[class^=ActivityBar]
 www.lessentiel.lu###commentSection
+www.lessentiel.lu##aside
+www.lessentiel.lu###ratingSection
+www.lessentiel.lu##div[class^='ReportDialog']
+www.lessentiel.lu##div[class^='ArticleContent_actionBubbleContainer']
+www.lessentiel.lu##a > div > button
 
 www.youtube.com##ytd-comments
 
