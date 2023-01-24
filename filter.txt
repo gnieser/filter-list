@@ -42,3 +42,4 @@ www.republicain-lorrain.fr###CMP_alternative
 
 www.lequipe.fr##section#comments
 www.lequipe.fr##section.Paywall
+www.lequipe.fr##ReactionSummary
