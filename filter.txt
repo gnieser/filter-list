@@ -23,6 +23,7 @@ www.lessentiel.lu##div[class^='ReportDialog']
 www.lessentiel.lu##div[class^='ArticleContent_actionBubbleContainer']
 www.lessentiel.lu##a > div > button
 www.lessentiel.lu##div[class~=Default]
+www.lessentiel.lu##div[class^='ContentPage_insideFullTopPlaceholder']
 
 www.youtube.com##ytd-comments
 
