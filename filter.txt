@@ -2,6 +2,8 @@ www.lemonde.fr##.message--register.message
 
 www.lefigaro.fr##.fig-comments
 www.lefigaro.fr##.fig-free-embed
+www.lefigaro.fr##.fig-consent-banner
+www.lefigaro.fr##.fig-sticky-bottom-subscription-banner
 
 www.lessentiel.lu##.teaser_media
 www.lessentiel.lu###talkback
