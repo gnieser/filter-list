@@ -43,6 +43,7 @@ www.republicain-lorrain.fr##.googleComponent
 www.republicain-lorrain.fr##.ua-trackevent
 www.republicain-lorrain.fr##.facebookContent
 www.republicain-lorrain.fr###CMP_alternative
+www.republicain-lorrain.fr##.constrain > .wrapperPub
 
 www.lequipe.fr##section#comments
 www.lequipe.fr##section.Paywall
