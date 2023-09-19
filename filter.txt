@@ -4,6 +4,7 @@ www.lefigaro.fr##.fig-comments
 www.lefigaro.fr##.fig-free-embed
 www.lefigaro.fr##.fig-consent-banner
 www.lefigaro.fr##.fig-sticky-bottom-subscription-banner
+www.lefigaro.fr##.fig-tabbar
 
 www.lessentiel.lu##.teaser_media
 www.lessentiel.lu###talkback
