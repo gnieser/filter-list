@@ -50,3 +50,5 @@ www.lequipe.fr##section#comments
 www.lequipe.fr##section.Paywall
 www.lequipe.fr##.ReactionSummary
 www.lequipe.fr##.article__action
+
+www.facebook.com##[href^="/reel"]
