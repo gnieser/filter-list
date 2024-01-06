@@ -1,54 +1,54 @@
-www.lemonde.fr##.message--register.message
+lemonde.fr##.message--register.message
 
-www.lefigaro.fr##.fig-comments
-www.lefigaro.fr##.fig-free-embed
-www.lefigaro.fr##.fig-consent-banner
-www.lefigaro.fr##.fig-sticky-bottom-subscription-banner
-www.lefigaro.fr##.fig-tabbar
+lefigaro.fr##.fig-comments
+lefigaro.fr##.fig-free-embed
+lefigaro.fr##.fig-consent-banner
+lefigaro.fr##.fig-sticky-bottom-subscription-banner
+lefigaro.fr##.fig-tabbar
 
-www.lessentiel.lu##.teaser_media
-www.lessentiel.lu###talkback
+lessentiel.lu##.teaser_media
+lessentiel.lu###talkback
 
-www.mediapart.fr##.js-comments
-www.mediapart.fr##a[data-smarttag-name='commentaires']
+mediapart.fr##.js-comments
+mediapart.fr##a[data-smarttag-name='commentaires']
 
-www.wort.lu##.comment
+wort.lu##.comment
 
-www.lessentiel.lu##.teaser_thematiclinks
-www.lessentiel.lu##section[id=ratingSection]
-www.lessentiel.lu##div[class^=CommentPage]
-www.lessentiel.lu##div > button:has(svg)
-www.lessentiel.lu##div[class^=ActivityBar]
-www.lessentiel.lu###commentSection
-www.lessentiel.lu##aside
-www.lessentiel.lu###ratingSection
-www.lessentiel.lu##div[class^='ReportDialog']
-www.lessentiel.lu##div[class^='ArticleContent_actionBubbleContainer']
-www.lessentiel.lu##a > div > button
-www.lessentiel.lu##div[class~=Default]
-www.lessentiel.lu##div[class^='ContentPage_insideFullTopPlaceholder']
+lessentiel.lu##.teaser_thematiclinks
+lessentiel.lu##section[id=ratingSection]
+lessentiel.lu##div[class^=CommentPage]
+lessentiel.lu##div > button:has(svg)
+lessentiel.lu##div[class^=ActivityBar]
+lessentiel.lu###commentSection
+lessentiel.lu##aside
+lessentiel.lu###ratingSection
+lessentiel.lu##div[class^='ReportDialog']
+lessentiel.lu##div[class^='ArticleContent_actionBubbleContainer']
+lessentiel.lu##a > div > button
+lessentiel.lu##div[class~=Default]
+lessentiel.lu##div[class^='ContentPage_insideFullTopPlaceholder']
 
-www.youtube.com##ytd-comments
+youtube.com##ytd-comments
 
-www.republicain-lorrain.fr###below_article_taboola_feed_stop
-www.republicain-lorrain.fr##.fullDetailActions
-www.republicain-lorrain.fr##.GRDC_newsletters.mod
-www.republicain-lorrain.fr##.stickyB_wrapper
-www.republicain-lorrain.fr##.col_secondaire
-www.republicain-lorrain.fr##.twitterContent
-www.republicain-lorrain.fr##.logora_synthese
-www.republicain-lorrain.fr##div#sharingBlock
-www.republicain-lorrain.fr##.listPromotionBlock
-www.republicain-lorrain.fr##.image.GRDC_webPoll.mod
-www.republicain-lorrain.fr##.googleComponent
-www.republicain-lorrain.fr##.ua-trackevent
-www.republicain-lorrain.fr##.facebookContent
-www.republicain-lorrain.fr###CMP_alternative
-www.republicain-lorrain.fr##.wrapperPub
+republicain-lorrain.fr###below_article_taboola_feed_stop
+republicain-lorrain.fr##.fullDetailActions
+republicain-lorrain.fr##.GRDC_newsletters.mod
+republicain-lorrain.fr##.stickyB_wrapper
+republicain-lorrain.fr##.col_secondaire
+republicain-lorrain.fr##.twitterContent
+republicain-lorrain.fr##.logora_synthese
+republicain-lorrain.fr##div#sharingBlock
+republicain-lorrain.fr##.listPromotionBlock
+republicain-lorrain.fr##.image.GRDC_webPoll.mod
+republicain-lorrain.fr##.googleComponent
+republicain-lorrain.fr##.ua-trackevent
+republicain-lorrain.fr##.facebookContent
+republicain-lorrain.fr###CMP_alternative
+republicain-lorrain.fr##.wrapperPub
 
-www.lequipe.fr##section#comments
-www.lequipe.fr##section.Paywall
-www.lequipe.fr##.ReactionSummary
-www.lequipe.fr##.article__action
+lequipe.fr##section#comments
+lequipe.fr##section.Paywall
+lequipe.fr##.ReactionSummary
+lequipe.fr##.article__action
 
-www.facebook.com##[href^="/reel"]
+facebook.com##[href^="/reel"]
