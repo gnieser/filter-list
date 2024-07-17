@@ -8,6 +8,7 @@ lefigaro.fr##.fig-tabbar
 
 lessentiel.lu##.teaser_media
 lessentiel.lu###talkback
+lessentiel.lu##.20MinutenVideo
 
 mediapart.fr##.js-comments
 mediapart.fr##a[data-smarttag-name='commentaires']
