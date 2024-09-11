@@ -46,6 +46,11 @@ republicain-lorrain.fr##.ua-trackevent
 republicain-lorrain.fr##.facebookContent
 republicain-lorrain.fr###CMP_alternative
 republicain-lorrain.fr##.wrapperPub
+republicain-lorrain.fr##.GANO_module
+republicain-lorrain.fr##.carnetblock
+republicain-lorrain.fr##.GJNU_LiseuseDual
+republicain-lorrain.fr##.GRDC_webPoll
+republicain-lorrain.fr##.playerblock
 
 lequipe.fr##section#comments
 lequipe.fr##section.Paywall
